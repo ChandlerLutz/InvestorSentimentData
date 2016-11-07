@@ -8,6 +8,8 @@ Lutz, C. (2016) "The Asymmetric Effects of Investor Sentiment",
 
 See https://doi.org/10.1017/S1365100514000996
 
+See https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2050435
+
 See http://chandlerlutz.com 
 
 # Data Description
